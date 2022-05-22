@@ -1,0 +1,50 @@
+Alabama__5,030,053__7__0
+Alaska__736,081__1__0
+Arizona__7,158,923__9__0
+Arkansas__3,013,756__4__0
+California__39,576,757__52__-1
+Colorado__5,782,171__8__1
+Connecticut__3,608,298__5__0
+Delaware__990,837__1__0
+Florida__21,570,527__28__1
+Georgia__10,725,274__14__0
+Hawaii__1,460,137__2__0
+Idaho__1,841,377__2__0
+Illinois__12,822,739__17__-1
+Indiana__6,790,280__9__0
+Iowa__3,192,406__4__0
+Kansas__2,940,865__4__0
+Kentucky__4,509,342__6__0
+Louisiana__4,661,468__6__0
+Maine__1,363,582__2__0
+Maryland__6,185,278__8__0
+Massachusetts__7,033,469__9__0
+Michigan__10,084,442__13__-1
+Minnesota__5,709,752__8__0
+Mississippi__2,963,914__4__0
+Missouri__6,160,281__8__0
+Montana__1,085,407__2__1
+Nebraska__1,963,333__3__0
+Nevada__3,108,462__4__0
+New Hampshire__1,379,089__2__0
+New Jersey__9,294,493__12__0
+New Mexico__2,120,220__3__0
+New York__20,215,751__26__-1
+North Carolina__10,453,948__14__1
+North Dakota__779,702__1__0
+Ohio__11,808,848__15__-1
+Oklahoma__3,963,516__5__0
+Oregon__4,241,500__6__1
+Pennsylvania__13,011,844__17__-1
+Rhode Island__1,098,163__2__0
+South Carolina__5,124,712__7__0
+South Dakota__887,770__1__0
+Tennessee__6,916,897__9__0
+Texas__29,183,290__38__2
+Utah__3,275,252__4__0
+Vermont__643,503__1__0
+Virginia__8,654,542__11__0
+Washington__7,715,946__10__0
+West Virginia__1,795,045__2__-1
+Wisconsin__5,897,473__8__0
+Wyoming__577,719__1__0
